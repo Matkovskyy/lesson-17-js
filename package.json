@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matkovskyy/lesson-17-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matkovskyy/lesson-17-js/issues"
+  },
+  "homepage": "https://github.com/Matkovskyy/lesson-17-js#readme",
+  "dependencies": {
+    "bootstrap.native": "^4.2.0"
+  }
+}
